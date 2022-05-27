@@ -128,3 +128,7 @@ dmypy.json
 
 # macOS
 .DS_Store
+
+test/**
+.idea/**
+**/*.iml
